@@ -1,1 +1,1 @@
-print("This is the first version of the app development")
+print("This is the second version of the app development")
